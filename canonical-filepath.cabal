@@ -2,7 +2,7 @@ name:                   canonical-filepath
 version:                1.0
 license:                BSD3
 license-file:           LICENSE
-author:                 Thomas Schilling <nominolo@googlemail.com>
+author:                 Max Bolingbroke, Thomas Schilling
 maintainer:             Thomas Schilling <nominolo@googlemail.com>
 homepage:               http://github.com/nominolo/canonical-filepath
 synopsis:               Abstract data type for canonical file paths.
